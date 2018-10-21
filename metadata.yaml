@@ -1,5 +1,5 @@
 _repo: Guy-Mannering_2590
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -38,5 +38,6 @@ subjects:
 - !lcsh 'Disinheritance -- Fiction'
 - !lcsh 'Inheritance and succession -- Fiction'
 - !lcsh 'Historical fiction'
+- GITenberg
 title: Guy Mannering
 url: http://www.gutenberg.org/ebooks/2590
